@@ -1,0 +1,6 @@
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\DemoLibrary.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\DemoLibrary.pdb

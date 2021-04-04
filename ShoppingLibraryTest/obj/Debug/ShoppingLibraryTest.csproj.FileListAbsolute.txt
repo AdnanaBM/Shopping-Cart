@@ -1,0 +1,72 @@
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csprojAssemblyReference.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csproj.CoreCompileInputs.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.abstractions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.runner.reporters.net452.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.runner.utility.net452.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll.config
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\nunit.framework.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.assert.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.core.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.execution.desktop.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\DemoLibrary.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\DemoLibrary.dll.config
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\nunit.framework.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\nunit.framework.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.assert.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.core.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.execution.desktop.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csproj.CopyComplete
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.runner.reporters.net452.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.runner.utility.net452.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.abstractions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll.config
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\DemoLibrary.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\nunit.framework.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.assert.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.core.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.execution.desktop.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\DemoLibrary.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\DemoLibrary.dll.config
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\nunit.framework.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\nunit.framework.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.assert.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.core.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\bin\Debug\xunit.execution.desktop.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csprojAssemblyReference.cache
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csproj.CoreCompileInputs.cache
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csproj.CopyComplete
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.abstractions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll.config
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\DemoLibrary.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\nunit.framework.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.assert.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.core.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\DemoLibrary.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\DemoLibrary.dll.config
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\nunit.framework.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\nunit.framework.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.assert.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.core.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csprojAssemblyReference.cache
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.csproj.CopyComplete
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibraryTest\obj\Debug\ShoppingLibraryTest.pdb

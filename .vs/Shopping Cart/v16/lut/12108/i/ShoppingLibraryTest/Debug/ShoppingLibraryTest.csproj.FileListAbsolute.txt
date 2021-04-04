@@ -1,0 +1,10 @@
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLibraryTest\bin\Debug\xunit.abstractions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLibraryTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLibraryTest\bin\Debug\xunit.runner.reporters.net452.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLibraryTest\bin\Debug\xunit.runner.utility.net452.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll.config
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLibraryTest\bin\Debug\ShoppingLibraryTest.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibraryTest\Debug\ShoppingLibraryTest.csprojAssemblyReference.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibraryTest\Debug\ShoppingLibraryTest.csproj.CoreCompileInputs.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibraryTest\Debug\ShoppingLibraryTest.csproj.CopyComplete
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibraryTest\Debug\ShoppingLibraryTest.dll

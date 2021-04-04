@@ -1,0 +1,564 @@
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\DemoLibrary.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\ShoppingLibrary.csprojAssemblyReference.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\ShoppingLibrary.csproj.CoreCompileInputs.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\DemoLibrary.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Superpower.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Superpower.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\obj\Debug\ShoppingLibrary.csproj.CopyComplete
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\netstandard.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.AppContext.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Collections.Concurrent.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Collections.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Collections.NonGeneric.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Collections.Specialized.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.ComponentModel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Console.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Data.Common.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.Debug.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.Process.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.Tools.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Drawing.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Dynamic.Runtime.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Globalization.Calendars.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Globalization.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Globalization.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.Compression.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.FileSystem.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.Pipes.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Linq.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Linq.Expressions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Linq.Parallel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Linq.Queryable.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.Http.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.NameResolution.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.NetworkInformation.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.Ping.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.Requests.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.Security.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.Sockets.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Net.WebSockets.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.ObjectModel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Reflection.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Reflection.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Reflection.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Resources.Reader.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Resources.ResourceManager.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Resources.Writer.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Handles.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.InteropServices.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Numerics.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Claims.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Principal.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.SecureString.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Text.Encoding.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Text.RegularExpressions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Overlapped.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Tasks.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Thread.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.ThreadPool.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Timer.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.ValueTuple.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Xml.XDocument.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Xml.XmlDocument.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Xml.XPath.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Framework.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Buffers.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.CodeDom.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Collections.Immutable.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Memory.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Reflection.Metadata.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Reflection.TypeExtensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Resources.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.AccessControl.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Permissions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Principal.Windows.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Framework.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Framework.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Tasks.Core.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\Microsoft.Build.Utilities.Core.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Buffers.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Collections.Immutable.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Memory.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Reflection.Metadata.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Resources.Extensions.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.AccessControl.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Permissions.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Security.Principal.Windows.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\DemoLibrary\bin\Debug\System.Threading.Tasks.Dataflow.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\DemoLibrary.dll.config
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\DemoLibrary.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\netstandard.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.AppContext.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Concurrent.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.NonGeneric.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Specialized.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Console.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Data.Common.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Debug.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Process.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Tools.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Drawing.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Dynamic.Runtime.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Globalization.Calendars.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Globalization.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Globalization.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.Compression.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.Pipes.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.Expressions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.Parallel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.Queryable.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Http.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.NameResolution.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.NetworkInformation.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Ping.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Requests.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Security.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Sockets.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.WebSockets.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ObjectModel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Reader.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.ResourceManager.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Writer.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Handles.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.InteropServices.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Numerics.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Claims.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Principal.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.SecureString.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.Encoding.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.RegularExpressions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Overlapped.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Thread.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.ThreadPool.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Timer.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ValueTuple.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XDocument.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XmlDocument.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XPath.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Superpower.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Buffers.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.CodeDom.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Immutable.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Memory.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Metadata.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.TypeExtensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Extensions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.AccessControl.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Permissions.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Principal.Windows.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Superpower.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Buffers.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Immutable.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Memory.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Metadata.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Extensions.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.AccessControl.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Permissions.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Principal.Windows.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Dataflow.xml
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\ShoppingLibrary.csprojAssemblyReference.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\ShoppingLibrary.csproj.CoreCompileInputs.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\ShoppingLibrary.csproj.CopyComplete
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\DemoLibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\DemoLibrary.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\DemoLibrary.dll.config
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\DemoLibrary.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\DemoLibrary.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\netstandard.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.AppContext.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Concurrent.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.NonGeneric.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Specialized.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Console.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Data.Common.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Debug.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Process.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Tools.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Drawing.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Dynamic.Runtime.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Globalization.Calendars.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Globalization.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Globalization.Extensions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.Compression.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.Pipes.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.Expressions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.Parallel.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Linq.Queryable.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Http.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.NameResolution.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.NetworkInformation.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Ping.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Requests.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Security.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.Sockets.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Net.WebSockets.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ObjectModel.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Extensions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Reader.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.ResourceManager.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Writer.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Extensions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Handles.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.InteropServices.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Numerics.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Claims.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Principal.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.SecureString.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.Encoding.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.RegularExpressions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Overlapped.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Thread.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.ThreadPool.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Timer.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.ValueTuple.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XDocument.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XmlDocument.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XPath.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Superpower.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Buffers.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.CodeDom.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Immutable.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Memory.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Numerics.Vectors.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Metadata.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.TypeExtensions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Extensions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.AccessControl.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Permissions.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Principal.Windows.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\Superpower.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Buffers.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Collections.Immutable.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Memory.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Numerics.Vectors.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Reflection.Metadata.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Resources.Extensions.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.AccessControl.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Permissions.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Security.Principal.Windows.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Dataflow.xml
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\ShoppingLibrary.csprojAssemblyReference.cache
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\ShoppingLibrary.csproj.CoreCompileInputs.cache
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\ShoppingLibrary.csproj.CopyComplete
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\DemoLibrary.dll
+F:\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\ShoppingLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\netstandard.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.AppContext.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Collections.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.ComponentModel.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Console.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Data.Common.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Globalization.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.Compression.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.Pipes.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Linq.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.Http.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.Ping.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.Requests.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.Security.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.Sockets.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.ObjectModel.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Reflection.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Resources.Reader.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Resources.Writer.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Claims.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Principal.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.SecureString.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Text.Encoding.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Thread.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Timer.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Xml.XPath.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Superpower.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.CodeDom.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Memory.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Permissions.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Tasks.Core.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Microsoft.Build.Utilities.Core.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\Superpower.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Memory.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Permissions.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\obj\Debug\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\obj\Debug\ShoppingLibrary.csproj.CopyComplete
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\Adnana\source\repos\Shopping Cart\ShoppingLibrary\obj\Debug\ShoppingLibrary.csprojAssemblyReference.cache

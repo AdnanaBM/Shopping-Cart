@@ -1,0 +1,5 @@
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\b\ShoppingLlibrary\bin\Debug\ShoppingLlibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibrary\Debug\ShoppingLibrary.csproj.CoreCompileInputs.cache
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibrary\Debug\ShoppingLibrary.csproj.CopyComplete
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibrary\Debug\ShoppingLlibrary.dll
+G:\Adnana\Desktop\Info master\Master An_I\Sem II\Medii si plaforme de dezvoltare\Laboratoare\Tema 8-10\.vs\Shopping Cart\v16\lut\0\i\ShoppingLibrary\Debug\ShoppingLibrary.csprojAssemblyReference.cache
