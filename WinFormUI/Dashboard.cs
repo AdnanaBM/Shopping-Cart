@@ -278,5 +278,10 @@ namespace WinFormUI
                 MessageBox.Show(message, title);
             }
         }
+
+        private void Dashboard_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

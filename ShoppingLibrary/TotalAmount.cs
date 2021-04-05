@@ -17,7 +17,8 @@ namespace ShoppingLibrary
             return x + y;
         }
 
-       
+
+      
 
         public static double TotalPriceOfaProduct(double x, double y)
         {

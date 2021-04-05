@@ -411,6 +411,7 @@
             this.Name = "Dashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Be You Store";
+            this.Load += new System.EventHandler(this.Dashboard_Load);
             this.databaseSectionGroup.ResumeLayout(false);
             this.databaseSectionGroup.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.amountOfProduct)).EndInit();

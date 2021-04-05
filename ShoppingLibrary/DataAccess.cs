@@ -18,6 +18,7 @@ namespace ShoppingLibrary
             }
            
         }
+
         class SecondProduct : IProductDetails
         {
             public string ProductNameAndPrice()
